@@ -5,6 +5,7 @@
 // @description  autocomple for tags
 // @author       You
 // @include        https://e-hentai.org/*
+// @include        https://exhentai.org/*
 // @grant        none
 // ==/UserScript==
 
